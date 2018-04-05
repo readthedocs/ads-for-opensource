@@ -1,0 +1,4 @@
+! Read the Docs Ads API
+@@||readthedocs.org/*
+! Ad cosmetic element
+readthedocs.io#@#.ethical-rtd

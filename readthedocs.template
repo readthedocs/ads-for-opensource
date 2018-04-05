@@ -1,0 +1,20 @@
+[Adblock Plus 2.0]
+! Title: Read the Docs Advertising Exception List
+! Last modified: %timestamp%
+! Expires: 1 days (update frequency)
+!
+! Read the Docs is an ad-supported, open source project that builds
+! and hosts docs for tens of thousands of open source projects.
+!
+! Advertising on Read the Docs:
+!  - respects your privacy (no advertiser JavaScript, no data dumps)
+!  - only shows advertising of interest to developers
+!  - supports open source software
+!
+! https://docs.readthedocs.io/en/latest/ethical-advertising.html
+!
+!
+! GitHub issues: TODO
+!
+!--------------------------Read the Docs Exceptions--------------------------!
+%include readthedocs:list/readthedocs.txt%
