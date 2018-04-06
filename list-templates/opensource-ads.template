@@ -1,0 +1,15 @@
+[Adblock Plus 2.0]
+! Title: Open Source Advertising Exception List
+! Last modified: %timestamp%
+! Expires: 1 days (update frequency)
+!
+! Whitelists advertising that directly supports open source software.
+!
+! Homepage: http://ads-for-opensource.readthedocs.io/
+! Issues: https://github.com/rtfd/ads-for-opensource/issues
+!
+!---------------------------Open Source Exceptions---------------------------!
+%include lists:lists/opensource.txt%
+!--------------------------Read the Docs Exceptions--------------------------!
+%include lists:lists/readthedocs.txt%
+

@@ -1,1 +1,6 @@
-git+https://github.com/adblockplus/python-abp
+# Python-adp is not released to PyPI
+git+https://github.com/davidfischer/python-abp
+
+# Needed to build the docs
+Sphinx
+sphinx_rtd_theme
