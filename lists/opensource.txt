@@ -1,0 +1,3 @@
+! Filezilla Ads are blocked by generic rules on the EasyList
+@@ads.filezilla-project.org
+filezilla-project.org#@#.TopAd
