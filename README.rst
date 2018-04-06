@@ -25,4 +25,3 @@ Read the Docs Ads Whitelist (`view list <https://ads-for-open-source.readthedocs
 
 .. _read more: https://ads-for-open-source.readthedocs.io/inclusion.html
 .. _ethical advertising: https://docs.readthedocs.io/en/latest/ethical-advertising.html
-adblock adblocker adblocking adblock-list adblock-plus ublock ublock-origin filterlist
