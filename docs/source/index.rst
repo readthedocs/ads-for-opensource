@@ -5,6 +5,7 @@
    :maxdepth: 1
    :caption: Contents:
 
+   installation
    inclusion
    faq
    developing
