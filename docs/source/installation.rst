@@ -19,14 +19,14 @@ Installing on AdblockPlus
 The easiest way to install these lists on AdblockPlus is to use AdblockPlus'
 URL listener for subscribing to new lists:
 
-* Click this link for the `Open Source Ads`_
+* Click this link for the `Open Source Ads List`_
   and confirm by hitting the "Yes, use this filter list" button
-* Or click this link for the `Read the Docs Ads`_
+* Or click this link for the `Read the Docs Ads List`_
   (a subset of the first list that only allows ads on Read the Docs)
   and confirm by hitting the "Yes, use this filter list" button
 
-.. _Open Source Ads: abp:subscribe?location=https://ads-for-open-source.readthedocs.io/en/latest/_static/lists/opensource-ads.txt&title=Open%20Source%20Ads%20Exceptions
-.. _Read the Docs Ads: abp:subscribe?location=https://ads-for-open-source.readthedocs.io/en/latest/_static/lists/readthedocs-ads.txt&title=Read%20the%20Docs%20Ads%20Exceptions
+.. _Open Source Ads List: abp:subscribe?location=https://ads-for-open-source.readthedocs.io/en/latest/_static/lists/opensource-ads.txt&title=Open%20Source%20Ads%20Exceptions
+.. _Read the Docs Ads List: abp:subscribe?location=https://ads-for-open-source.readthedocs.io/en/latest/_static/lists/readthedocs-ads.txt&title=Read%20the%20Docs%20Ads%20Exceptions
 
 Alternatively, adding filter lists on AdblockPlus can be done in just a few steps:
 
