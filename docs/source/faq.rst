@@ -16,18 +16,18 @@ My adblocker allows acceptable ads. Do I still need this?
     Read the Docs identified multiple projects where ads were blocked and those
     projects lacked the time and resources to work with the
     `AcceptableAds group`_ or educate users about the impact of adblocking on
-    their funding. These whitelists are specifically to help these projects.
-    These whitelists are not a strict subset of the acceptable ads list.
+    their funding. These lists are specifically to help these projects.
+    These lists are not a strict subset of the acceptable ads list.
 
     Furthermore, some users don't want to allow acceptable ads while they are
     willing to tolerate ads to benefit the developer community.
 
 .. _AcceptableAds group: https://acceptableads.com/
 
-I run an open source project. How do I get on the whitelist?
+I run an open source project. How do I get on the list?
     Please see the page on :doc:`getting included <inclusion>`.
 
-How do I report an ad that shouldn't be whitelisted?
+How do I report an ad that shouldn't be excepted?
     Please open an `issue on GitHub`_.
 
 .. _issue on GitHub: https://github.com/rtfd/ads-for-opensource/issues

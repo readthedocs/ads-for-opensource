@@ -1,7 +1,7 @@
 Installing Adblock Filter Lists
 ===============================
 
-Adblock lists, whether filters that block additional items or whitelist
+Adblock lists, whether filters that block additional items or allow
 exceptions like the ones here, can be installed on every major
 adblocker. Here are the installation steps on the three biggest adblockers.
 
@@ -19,14 +19,14 @@ Installing on AdblockPlus
 The easiest way to install these lists on AdblockPlus is to use AdblockPlus'
 URL listener for subscribing to new lists:
 
-* Click this link for the `Open Source Ads Whitelist`_
+* Click this link for the `Open Source Ads`_
   and confirm by hitting the "Add" button
-* Or click this link for the `Read the Docs Ads Whitelist`_
-  (a subset of the first list that only whitelists Read the Docs)
+* Or click this link for the `Read the Docs Ads`_
+  (a subset of the first list that only allows ads on Read the Docs)
   and confirm by hitting the "Add" button
 
-.. _Open Source Ads Whitelist: abp:subscribe?location=https://ads-for-open-source.readthedocs.io/en/latest/_static/lists/opensource-ads.txt&title=Open%20Source%20Ads%20Whitelist
-.. _Read the Docs Ads Whitelist: abp:subscribe?location=https://ads-for-open-source.readthedocs.io/en/latest/_static/lists/readthedocs-ads.txt&title=Read%20the%20Docs%20Ads%20Whitelist
+.. _Open Source Ads: abp:subscribe?location=https://ads-for-open-source.readthedocs.io/en/latest/_static/lists/opensource-ads.txt&title=Open%20Source%20Ads%20Exceptions
+.. _Read the Docs Ads: abp:subscribe?location=https://ads-for-open-source.readthedocs.io/en/latest/_static/lists/readthedocs-ads.txt&title=Read%20the%20Docs%20Ads%20Exceptions
 
 Alternatively, adding filter lists on AdblockPlus can be done in just a few steps:
 
