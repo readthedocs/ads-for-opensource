@@ -1,12 +1,12 @@
-Developing these Whitelists
-===========================
+Developing these lists
+======================
 
 
 Generate these docs
 -------------------
 
 This is the command to generate the documentation you are reading now.
-The first step of generating the docs is to generate the whitelists so they
+The first step of generating the docs is to generate the lists so they
 are included in the docs build output.
 
 ::
@@ -15,10 +15,10 @@ are included in the docs build output.
     % cd docs && make html
 
 
-Generate the whitelists
------------------------
+Generate the lists
+------------------
 
-To generate the whitelists only locally, you can run the following:
+To generate the lists only locally, you can run the following:
 
 ::
 
@@ -26,7 +26,7 @@ To generate the whitelists only locally, you can run the following:
     % ./generate-lists.py    # output written to docs/source_static/lists/
 
 
-Writing whitelist filters
--------------------------
+Writing list filters
+--------------------
 
 See the `AdblockPlus documentation on writing filters <https://adblockplus.org/en/filters>`_.

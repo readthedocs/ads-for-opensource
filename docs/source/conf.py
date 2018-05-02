@@ -24,7 +24,7 @@ from datetime import datetime
 BASE_PATH = os.path.dirname(__file__)
 
 generate_lists_script = os.path.join(BASE_PATH, '..', '..', 'generate-lists.py')
-print('Generating adblock whitelists...')
+print('Generating adblock exception lists...')
 subprocess.check_call([
     generate_lists_script
 ])

@@ -10,6 +10,6 @@
    faq
    developing
 
-.. note:: These whitelists are a service of `Read the Docs`_.
+.. note:: These lists are a service of `Read the Docs`_.
 
 .. _Read the Docs: https://readthedocs.org

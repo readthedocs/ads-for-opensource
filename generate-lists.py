@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-"""Generates adblock whitelists based on templates in ``list-templates``."""
+"""Generates adblock exception lists based on templates in ``list-templates``."""
 
 import os
 import subprocess
@@ -27,4 +27,4 @@ for template in TEMPLATES:
         infile,
         outfile,
     ])
-    print(u'- Wrote whitelist to {}'.format(outfile))
+    print(u'- Wrote list to {}'.format(outfile))

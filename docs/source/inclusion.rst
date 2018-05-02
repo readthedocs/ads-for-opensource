@@ -1,7 +1,7 @@
-Getting Included on the Whitelist
-=================================
+Getting Included on the list
+============================
 
-To get included on the **Open Source Ads Whitelist**, please verify that the
+To get included on the **Open Source Ads** list, please verify that the
 advertising meets all of the criteria below and then open an `issue on GitHub`_
 with the following information:
 
