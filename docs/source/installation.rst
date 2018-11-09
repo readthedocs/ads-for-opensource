@@ -68,13 +68,13 @@ Installing on uBlock Origin
 
    Installing on uBlock Origin
 
-uBlock Origin is also a two step process:
+uBlock Origin is also just a couple of steps:
 
 * Click on the uBlock Origin extension icon on your browser.
-* Under the "3rd-party filters" tab,
-  enter the URL of the list you want to subscribe to
-  (`Open Source Ads`_, `Read the Docs Ads`_) in the text area at the bottom.
-  and lastly click the "Apply changes" button in the upper right.
+* Click the slider / settings icon to open the "Dashboard".
+* Under the "Filter Lists" tab, scroll to the bottom where it says "Custom" and click the "Import" checkbox to reveal the custom URL textbox.
+* Enter the URL of the list you want to subscribe to
+  (`Open Source Ads`_, `Read the Docs Ads`_) in the textbox and lastly click the "Apply changes" button in the upper right.
 
 
 .. _Open Source Ads: https://ads-for-open-source.readthedocs.io/en/latest/_static/lists/opensource-ads.txt
