@@ -7,3 +7,4 @@ filezilla-project.org#@#.TopAd
 @@||srv.carbonads.net/ads/CK7I6K3E.json?segment=placement:wwwrichie-bendallml
 @@||buysellads.net^$third-party
 @@||ad.doubleclick.net^$~object-subrequest,third-party
+@@||ad.doubleclick.net/ddm/trackclk/$popup,third-party
