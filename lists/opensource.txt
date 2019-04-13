@@ -1,3 +1,9 @@
 ! Filezilla Ads are blocked by generic rules on the EasyList
 @@ads.filezilla-project.org
 filezilla-project.org#@#.TopAd
+
+! Richie Bendall's Website Ads are blocked by generic rules on the EasyList
+@@||carbonads.com^$domain=richie-bendall.ml
+@@||carbonads.net^$domain=richie-bendall.ml
+@@||buysellads.net^$domain=richie-bendall.ml
+@@||doubleclick.net^$domain=richie-bendall.ml
