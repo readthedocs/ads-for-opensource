@@ -10,3 +10,6 @@ filezilla-project.org#@#.TopAd
 @@||carbonads.net^$domain=richie-bendall.ml
 @@||buysellads.net^$domain=richie-bendall.ml
 @@||doubleclick.net^$domain=richie-bendall.ml
+
+! Yahoo!
+@@||s.yimg.com^$script,domain=tw.mobi.yahoo.com
