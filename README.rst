@@ -23,5 +23,5 @@ Read the Docs Ads (`view list <https://ads-for-open-source.readthedocs.io/en/lat
     policy of `ethical advertising`_ which takes privacy seriously. This list
     is a strict subset of the Open Source Ads list.
 
-.. _read more: https://ads-for-open-source.readthedocs.io/en/latest/installation.html
+.. _read more: https://ads-for-open-source.readthedocs.io/en/latest/inclusion.html
 .. _ethical advertising: https://docs.readthedocs.io/en/latest/ethical-advertising.html
