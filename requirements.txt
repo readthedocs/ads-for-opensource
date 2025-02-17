@@ -2,5 +2,5 @@
 git+https://github.com/davidfischer/python-abp
 
 # Needed to build the docs
-Sphinx
+Sphinx >= 8.0, <9
 sphinx_rtd_theme
