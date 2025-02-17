@@ -8,9 +8,3 @@ filezilla-project.org#@#.TopAd
 ! Mozilla's Ads are blocked by generic rules on EasyList
 ! https://developer.mozilla.org/en-US/advertising
 @@||developer.mozilla.org/*
-
-! Richie Bendall's Website Ads are blocked by generic rules on the EasyList
-@@||carbonads.com^$domain=richie-bendall.ml
-@@||carbonads.net^$domain=richie-bendall.ml
-@@||buysellads.net^$domain=richie-bendall.ml
-@@||doubleclick.net^$domain=richie-bendall.ml
